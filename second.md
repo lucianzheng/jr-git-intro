@@ -1,1 +1,1 @@
-This is the second file.
+Updated first line in the second file.
